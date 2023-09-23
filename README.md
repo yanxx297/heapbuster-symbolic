@@ -1,4 +1,8 @@
 # Heapbuster-symbolic
+Symbolic execution directed by a heap operation sequence.
+
+This repo is for documentation and extra tools. 
+Below are the main work and related repos.
 - [FuzzBALL](https://github.com/yanxx297/fuzzball/tree/hb-branch) heapbuster branch
 - A modified version of [libxml2-2.93](https://github.com/yanxx297/libxml2). Changes have been made to generate heap operation trace and to simplify bug finding.
 
